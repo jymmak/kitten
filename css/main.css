@@ -130,7 +130,7 @@
 }
 
 /*phones*/
-@media (min-width: 481px) and (max-width: 767px) {
+@media (min-width: 400px) and (max-width: 767px) {
    .container-first{
     background-image: url('../assets/images/dawn.png');
   }
